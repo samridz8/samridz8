@@ -16,7 +16,7 @@ g<h3 align="left">Learner</h3>
 
 <h3 align="left">Learnings:</h3>
 <P align="left">
-  <a href="https://coursera.org/share/a2e3efca84920daba6f47ccb1c42fb75" target="blank"></a>
+  <a href="https://coursera.org/share/a2e3efca84920daba6f47ccb1c42fb75" name="Coursera" id="Coursera" target="blank"></a>
 </P>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samridz8&show_icons=true&locale=en" alt="samridz8" /></p>
