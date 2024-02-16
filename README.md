@@ -25,7 +25,7 @@
     </tr>
     <tr>
       <th>Introduction to Data Analytics</th>
-      <th><a href="https://coursera.org/share/a2e3efca84920daba6f47ccb1c42fb75" title="IBM">IBM</a></th>
+      <th><a href="https://coursera-certificate-images.s3.amazonaws.com/5LVEPZXMM7V6" title="IBM">IBM</a></th>
       <th>✓</th>
     </tr>
   </tbody>
