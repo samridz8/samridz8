@@ -51,6 +51,7 @@
     </tbody>
 </table>
 
+
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=samridz8&show_icons=true&locale=en" alt="samridz8" />
 </p>
@@ -58,4 +59,5 @@
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=samridz8&" alt="samridz8" />
 </p>
+<img src="https://raw.githubusercontent.com/Uknowme-h/Uknowme-h/output/snake.svg" alt="Snake animation" style="max-width: 100%;">
 
