@@ -1,3 +1,6 @@
+
+<img src="https://komarev.com/ghpvc/?username=samridz8" alt="Profile Views Counter">
+
 <h3 align="left">Learner</h3>
 
 <p>
