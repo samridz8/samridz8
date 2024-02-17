@@ -32,6 +32,21 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
     </a>
 </p>
+<br>
+<h3>Socials:</h3>
+<div align="left">
+  <a href="https://www.instagram.com/samridha_1/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram Logo" />
+  </a>
+    
+  <a href="https://discordapp.com/users/905480726886105149" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a> 
+  
+  <a href="https://www.linkedin.com/in/samridh-hada-b5a715299/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
 <h3 align="left" dir="auto">Learnings:</h3>
 <table border="1px">
