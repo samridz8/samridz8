@@ -11,7 +11,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/8g5iyw.gif"  />
+<img align="right" height="150" src="https://i.imgflip.com/8g5ts4.gif"  />
 
 ###
 <h3 align="left">Languages and Tools:</h3>
