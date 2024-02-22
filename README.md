@@ -4,7 +4,7 @@
 <h3 align="left">learning</h3>
 
 <p>
-    🌱 I’m currently learning <strong>Python, OOP's</strong>
+    🌱 I’m currently learning <strong>Python, OOP's, SQL</strong>
     <br>
     📫 How to reach me: <a href="mailto:samridhlearn@gmail.com">samridhlearn@gmail.com</a>
 </p>
