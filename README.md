@@ -70,12 +70,19 @@
 </table>
 
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=samridz8&show_icons=true&locale=en" alt="samridz8" />
-</p>
+<div align="center">
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=samridz8&" alt="samridz8" />
-</p>
-<img src="https://raw.githubusercontent.com/Uknowme-h/Uknowme-h/output/snake.svg" alt="Snake animation" style="max-width: 100%;">
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=samridz8&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=samridz8&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=samridz8&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=samridz8&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=samridz8&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+</div>
