@@ -63,7 +63,7 @@
     <tbody>
         <tr>
             <td>Introduction to Data Analytics</td>
-            <td><a href="https://coursera-certificate-images.s3.amazonaws.com/5LVEPZXMM7V6" title="IBM">IBM</a></td>
+            <td><a href="/account/accomplishments/?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course" title="IBM">IBM</a></td>
             <td>✓</td>
         </tr>
     </tbody>
