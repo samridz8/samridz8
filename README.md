@@ -77,9 +77,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samridz8&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samridz8&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=samridz8&theme=tokyo-night"/>
 
-<img align="center" src="https://camo.githubusercontent.com/6940a83caf97f388d43c14e31a0ff525dd6cb5e17e21a7452cb10d89cecd9e93/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f73746174733f757365726e616d653d556b6e6f776d652d68267468656d653d746f6b796f6e69676874" height="190em" data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samridz8-h&amp;theme=tokyonight" style="max-width: 100%;">
-<img align="center" src="https://camo.githubusercontent.com/6657c19dba5f1ced1d77b2b342afdda6c5ee279e8192034c74e2762b3509285a/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f6d6f73742d636f6d6d69742d6c616e67756167653f757365726e616d653d556b6e6f776d652d68267468656d653d746f6b796f6e69676874" height="190em" data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samridz8-h&amp;theme=tokyonight" style="max-width: 100%;">
 
 
 
