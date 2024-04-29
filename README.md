@@ -62,9 +62,19 @@
     </thead>
     <tbody>
         <tr>
+            <td>Introduction to python</td> 
+            <td><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/28dc6bd202848942b3fc6022949818871753ab65" title="datacamp">Datacamp</a></td>
+            <td>✓</td>
+        </tr>
+        <tr>
             <td>Introduction to Data Analytics</td>
             <td><a href="https://www.coursera.org/account/accomplishments/verify/5LVEPZXMM7V6" title="IBM">IBM</a></td>
             <td>✓</td>
+        </tr>
+        <tr>
+            <td>Intermediate Python</td>
+            <td>Datacamp</td>
+            <td>learning...</td>
         </tr>
     </tbody>
 </table>
