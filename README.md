@@ -74,7 +74,7 @@
         <tr>
             <td>Intermediate Python</td>
             <td>Datacamp</td>
-            <td>learning...</td>
+            <td>learning....</td>
         </tr>
     </tbody>
 </table>
