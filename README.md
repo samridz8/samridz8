@@ -5,7 +5,8 @@
 
 <p>
     
-    📫 How to reach me: <a href="mailto:samridhlearn@gmail.com">samridhlearn@gmail.com</a>
+    📫 How to reach me:
+    <a href="mailto:samridhlearn@gmail.com">samridhlearn@gmail.com</a>
 </p>
 
 ###
