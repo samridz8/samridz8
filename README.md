@@ -74,11 +74,8 @@
         <tr>
         <td>Fundamentals of Data Structure and Algorithms</td> 
             <td><a href="https://drive.google.com/file/d/12payCxnHG-m7zgANatd3ZprH_tp0yAsx/view?usp=sharing" title="datacamp">CMRIT</a></td>
-            <td>✓</td>
-            
-        </tr>
-        
-        
+            <td>✓</td>    
+        </tr> 
     </tbody>
 </table>
 
