@@ -78,7 +78,7 @@
         </tr> 
         <tr>
         <td>Python And Django Framework And HTML 5 Stack Complete Course</td> 
-            <td><a href="Python And Django Framework And HTML 5 Stack Complete Course" title="datacamp">Udemy</a></td>
+            <td><a href="https://www.udemy.com/certificate/UC-09b5f712-cf7f-4394-8f48-3cf2dcad4e05/" title="datacamp">Udemy</a></td>
             <td>✓</td>    
         </tr> 
     </tbody>
