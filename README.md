@@ -63,7 +63,7 @@
     <tbody>
         <tr>
             <td>Introduction to python</td> 
-            <td><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/28dc6bd202848942b3fc6022949818871753ab65" title="datacamp">Datacamp</a></td>
+            <td><a href="https://drive.google.com/file/d/1xCZ0sYjDIkMnA4sbkW7OdJBUdltFycTU/view?usp=sharing" title="datacamp">Datacamp</a></td>
             <td>✓</td>
         </tr>
         <tr>
