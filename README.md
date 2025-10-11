@@ -76,6 +76,11 @@
             <td><a href="https://drive.google.com/file/d/12payCxnHG-m7zgANatd3ZprH_tp0yAsx/view?usp=sharing" title="datacamp">CMRIT</a></td>
             <td>✓</td>    
         </tr> 
+        <tr>
+        <td>Python And Django Framework And HTML 5 Stack Complete Course</td> 
+            <td><a href="Python And Django Framework And HTML 5 Stack Complete Course" title="datacamp">Udemy</a></td>
+            <td>✓</td>    
+        </tr> 
     </tbody>
 </table>
 
